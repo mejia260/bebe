@@ -1,0 +1,24 @@
+@font-face{
+    font-family:fuente_1;
+    font-style:normal;
+  font-weight: normal;
+    src: url(CampanaScript_PERSONAL_USE_ONLY.otf);
+ }
+ @font-face{
+    font-family:fuente_2;
+    font-style: normal;
+    font-weight: normal;
+    src: url(TropicalCounty.otf);
+
+
+ }
+ p.tipografia_2{
+    font: family fuente_ 2px;;
+font-size: 60px;
+    color: green;
+ }
+ p.tipografia_1{
+    font-family:fuente_1;
+font-size: 100px;
+    color: red;
+ }
